@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Maxime Ossonce
 email: maxime.ossonce_at_esme.fr
-description: Page personnelle de Maxime Ossonce (enseignement, recherche)
+description: Page personnelle de Maxime Ossonce Enseignant à ESME Sudria / Doctorant à Paris-Saclay
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://moxime.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: moxime
